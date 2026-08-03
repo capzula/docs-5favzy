@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-8dq7vy.suster1233psa.site/sitemap.xml
